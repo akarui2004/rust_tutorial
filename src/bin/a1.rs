@@ -1,11 +1,11 @@
 // Using function to display first name
 fn first_name() {
-    println!("Minh")
+    println!("Akarui")
 }
 
 // Using function to display last name
 fn last_name() {
-    println!("Doan")
+    println!("Hibiki")
 }
 
 // Using println to display message in main function
